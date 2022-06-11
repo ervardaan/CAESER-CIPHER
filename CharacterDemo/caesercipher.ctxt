@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=caesercipher
+comment1.params=sgiven\ key
+comment1.target=java.lang.StringBuilder\ changestring(java.lang.StringBuilder,\ int)
+comment2.params=smain\ key1\ key2
+comment2.target=void\ encrypttwokeys(java.lang.String,\ int,\ int)
+numComments=3

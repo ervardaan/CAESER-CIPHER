@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=randomgenerator
+comment1.params=roll
+comment1.target=int[]\ generate(int)
+numComments=2

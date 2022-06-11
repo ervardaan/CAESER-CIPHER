@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=commonwordfinder
+comment1.params=
+comment1.target=void\ etwords()
+comment1.text=\ public\ findwords()\r\n{\r\n\ \ \ \ DirectoryResource\ dr\=new\ DirectoryResource();\r\n\ \ \ \ for(File\ f\:dr.selectedFiles())\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ FileResource\ fr\=new\ FileResource(f);\r\n\ \ \ \ \ \ \ \ String\ content1\=fr.asString();\r\n\ \ \ \ \ \ \ \ getwords(content1);\r\n}}\r\n
+numComments=2
